@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/theleancoder)
 <br/>
 
-Hi, My name is Yashwant Singh, I'm pursuing graduation in Bachelors of Computer Application(BCA) 2nd-year. I'm proficient in CoreJava and have hands-on experience in Servlets and JSP currently practising web development. I to love play video games, creating videos and being social.
+Hi, My name is Yashwant Singh, I'm pursuing graduation in Bachelors of Computer Application(BCA) 2nd-year. I'm proficient in CoreJava and have hands-on experience in Servlets and JSP currently practising web development. I love to play video games, creating content and being social on social media.
 <br/>
 
 <li>🔭 I’m currently working on problem solving skills</li>
